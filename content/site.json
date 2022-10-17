@@ -1,21 +1,22 @@
 {
-  "siteTitle": "Ocean Market",
-  "siteTagline": "A marketplace to find, publish and trade datasets in the Ocean Network.",
-  "siteUrl": "https://market.oceanprotocol.com",
+  "siteTitle": "Umbrella Market",
+  "siteTagline": "Este marketplace permite desarrollar la economía del dato",
+  "siteUrl": "https://umbrella-research.duckdns.org",
   "siteImage": "/share.png",
   "copyright": "All Rights Reserved. Powered by ",
   "menu": [
     {
-      "name": "Publish",
+      "name": "Publicar",
       "link": "/publish/1"
     },
     {
-      "name": "Profile",
+      "name": "Perfil",
       "link": "/profile"
     }
   ],
-  "announcement": "Explore [OceanONDA V4](https://blog.oceanprotocol.com/how-to-publish-a-data-nft-f58ad2a622a9).",
+  "announcement": "Explore [Petarducu](https://parduengo.github.io/Portfolio/portfolio/).",
   "warning": {
     "ctd": "Compute-to-Data is still in a testing phase, please use it only on test networks."
   }
 }
+

@@ -1,6 +1,6 @@
 {
-  "title": "Publish",
-  "description": "Highlight the important features of your dataset or algorithm to make it more discoverable and catch the interest of data consumers.",
-  "warning": "Publishing into a test network first is strongly recommended. Please familiarize yourself with [the market](https://oceanprotocol.com/technology/marketplaces), [the risks](https://blog.oceanprotocol.com/on-staking-on-data-in-ocean-market-3d8e09eb0a13), and the [Terms of Use](/terms).",
-  "tooltipAvailableNetworks": "Assets are published to the network your wallet is connected to. These networks are currently supported:"
+  "title": "Publicar",
+  "description": "Destaque las características importantes de su conjunto de datos o algoritmo para que sea más detectable y captar el interés de los consumidores de datos.",
+  "warning": "Se recomienda encarecidamente publicar primero en una red de prueba. Familiarícese con [el mercado](https://oceanprotocol.com/technology/marketplaces), [los riesgos](https://blog.oceanprotocol.com/on-staking-on-data-in-ocean-market-3d8e09eb0a13) y los [Términos de uso](/terms)..",
+  "tooltipAvailableNetworks": "Los activos se publican en la red a la que está conectada su monedero (Wallet). Estas redes son compatibles actualmente:"
 }
